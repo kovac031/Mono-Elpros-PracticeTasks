@@ -8,7 +8,7 @@ Napraviti konzolnu aplikaciju sa izbornikom, radi sljedeće:
 
 2) Unesi brojeve radi izračuna rješenja kvadratne jednadžbe
 
-3) Unosiš ocjene i kad završiš s unosom izračuna ti prosijek
+3) Unosiš ocjene i kad završiš s unosom izračuna ti prosjek
 
 4) Unosiš više brojeva i treba zbrojiti samo zadnje znamenke od svakog
 
